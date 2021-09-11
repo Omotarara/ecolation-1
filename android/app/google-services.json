@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969201196060",
+    "firebase_url": "https://ecolation-7bfd8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ecolation-7bfd8",
+    "storage_bucket": "ecolation-7bfd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969201196060:android:4199218b9de9568e2613d9",
+        "android_client_info": {
+          "package_name": "com.example.ecolation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969201196060-ftv9itn6jafkti94oav96suocp406s45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecolation",
+            "certificate_hash": "48f8b48cd8004df0b77336bf8d99bc5f8611a6a7"
+          }
+        },
+        {
+          "client_id": "969201196060-5auo7395n3pl7iectda5nf8tpp1b6hgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eIMdBnW6aa1s2m6Gt6yK8OaClb_yLQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969201196060-5auo7395n3pl7iectda5nf8tpp1b6hgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
